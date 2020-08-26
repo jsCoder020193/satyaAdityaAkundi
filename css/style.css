@@ -229,7 +229,8 @@ button:hover {
 
 #main #profile_col {
     float: left;
-    width: 30%;
+    /* width: 30%; */
+    width: 37%;
     padding: 10px;
     text-align: left;
 }
@@ -646,4 +647,14 @@ footer p {
 
 .socials_row img {
     max-width: 25px;
+}
+
+#profile_col p {
+    /* font-size: 1.17em; */
+    margin: 0;
+}
+
+#description_col p {
+    font-size: 1.17em;
+    margin: 0;
 }
